@@ -1,5 +1,5 @@
 # github个人访问令牌设置
-当前版本的git bash推送commit时会失败： 
+当前版本的git bash使用登录密码推送commit时会失败： 
 
     $ git push origin master
     Logon failed, use ctrl+c to cancel basic credential prompt.
