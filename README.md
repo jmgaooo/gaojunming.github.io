@@ -1,2 +1,2 @@
 # gaojunming.github.io
-我的网站
+[个人笔记](https://gaojunming.github.io)
