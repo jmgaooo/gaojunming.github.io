@@ -194,3 +194,12 @@ main.cpp：
 打开main.cpp，按下`F5`运行程序结果如下图说明环境搭建成功；
 
 ![](image/2022-01-09-15-20-25.png)
+
+## glew编译
+> 参考：[使用Mingw-w64编译](https://github.com/nigels-com/glew#msys2mingw-w64)
+
+出现`undefined reference to 'fprintf'`问题如何解决：  
+[-nostdlib标志似乎破坏了MinGW中的glewinfo.exe编译](https://github.com/nigels-com/glew/issues/96)
+
+编译后程序无法执行：  
+[如何解决我的OpenGL程序的 "glew32.dll在你的电脑中丢失 "问题？](https://stackoverflow.com/a/70342493)
